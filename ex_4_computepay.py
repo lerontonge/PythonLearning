@@ -3,7 +3,7 @@ rate = input("Enter Hourly Rate: ")
 
 
 def errorlog():
-    return "Error Error Error"
+    return "Input Error Detected"
 
 
 try:
