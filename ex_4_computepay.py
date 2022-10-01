@@ -22,5 +22,3 @@ def calculate_pay(hrs, rte):
         return (rte * 40)+((hrs-40)*(rte/2))
 
 print("Total Pay:", calculate_pay(num_hrs,num_rate))
-
-#commit
