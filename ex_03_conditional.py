@@ -5,7 +5,7 @@ if x < 10:
 if x > 10:
     print("Bigger")
 
-print("\n-Done")
+print("\n-Done.")
 
 
 # Indentation is important
